@@ -1,0 +1,11 @@
+C:\Users\Андрей\source\repos\ipp3\ipp3\bin\Debug\ipp3.exe.config
+C:\Users\Андрей\source\repos\ipp3\ipp3\bin\Debug\ipp3.exe
+C:\Users\Андрей\source\repos\ipp3\ipp3\bin\Debug\ipp3.pdb
+C:\Users\Андрей\source\repos\ipp3\ipp3\obj\Debug\ipp3.csproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\ipp3\ipp3\obj\Debug\ipp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\source\repos\ipp3\ipp3\obj\Debug\ipp3.Form1.resources
+C:\Users\Андрей\source\repos\ipp3\ipp3\obj\Debug\ipp3.Properties.Resources.resources
+C:\Users\Андрей\source\repos\ipp3\ipp3\obj\Debug\ipp3.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\ipp3\ipp3\obj\Debug\ipp3.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\ipp3\ipp3\obj\Debug\ipp3.exe
+C:\Users\Андрей\source\repos\ipp3\ipp3\obj\Debug\ipp3.pdb
